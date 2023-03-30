@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+
+message ComputeRequest {
+    int32 num = 1;
+    int32 times = 2;
+}

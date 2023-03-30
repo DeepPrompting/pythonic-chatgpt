@@ -1,0 +1,13 @@
+# global configuration
+api_type: "azure"
+root_folder: "."
+model_engine1: init_test #text-davinci-003
+fuzz_promopt: False
+function_folder: example
+
+# static analysis configuration
+
+# test configuration
+
+# repair configuration
+repair_round: 1
